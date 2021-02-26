@@ -1,49 +1,10 @@
-# BestREADME Generator
-![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# BestREADMEGenerator
 
-## Description
+The following is a README generator based on inputs from the USER.
 
-This is a simple, yet effective README generator for projects
+To begin the application, the USER must run node.js.
+Once the application has begun running, the USER will be prompted with a series of questions as it pertains to their project. 
 
-## Table of Contents 
-
-* [Installation](#installation)
-* [Usage](#usage)
-
-* [License](#license)
-
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
-## Installation
-
-To install necessary dependencies, run the following command:
-
-```
-npm i
-```
-
-## Usage
-
-This repo can be forked in order to utilize its contents.
-
-## License
-
-This project is licensed under the GPL 3.0 license.
-  
-## Contributing
-
-Please contact me with any questions you may have regarding this REPO. :)
-
-## Tests
-
-To run tests, run the following command:
-
-```
-npm test
-```
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at arraa.marie@gmail.com. You can find more of my work at [blackkpearl](https://github.com/blackkpearl/).
+When the USER has completed answering the questions, a README.MD file and a badge for the license are generated in a separate file.
+This separate file will contain all of the previously selected conditions the USER input based on their desired README criteria. 
 
